@@ -5,7 +5,9 @@ My name is Laura and I am training to be a full stack Ruby developer with Makers
 ## Projects
 
 | **Student Directory** | 
+
 An interactive web app to save names of students and be able to view any saved students as well as some basic information about them.
+
 | Ruby      
 
 ## Skills
